@@ -80,3 +80,10 @@ MIT
 ## Contributing
 
 Feel free to fork, submit pull requests, or open issues for feature requests and bug reports!
+
+---
+
+## About
+
+**This is a student project, made with little or no prior experience.  
+We are grateful for any help, feedback, or suggestions from the community!**
