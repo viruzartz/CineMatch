@@ -1,0 +1,6 @@
+.env
+.env.local
+*.key
+*.pem
+.supabase/*
+node_modules/
