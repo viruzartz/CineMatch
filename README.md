@@ -1,7 +1,7 @@
 # CineMatch
 
 CineMatch is a simple, modern web app for discovering, rating, and comparing movies and series with friends.  
-Built with **Next.js** and **Supabase**, it’s designed for speed, privacy, and ease of use—perfect for running on a mini PC or server.
+Built with **Next.js** and **Supabase**, it’s designed for speed, privacy, and ease of use perfect for running on a mini PC or server.
 
 ---
 
