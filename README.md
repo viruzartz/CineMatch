@@ -1,3 +1,6 @@
+
+<img width="3636" height="3446" alt="cinematch_logo" src="https://github.com/user-attachments/assets/f51cbc80-156d-4353-9e09-aa150675645d" />
+
 # CineMatch
 
 CineMatch is a simple, modern web app for discovering, rating, and comparing movies and series with friends.  
